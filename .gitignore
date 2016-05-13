@@ -41,3 +41,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+packages/
+ProjectApi/bin/
+ProjectApi/obj/
+Project_20160512/obj/
+Project_20160512/bin/
+ConsoleGetApiData/obj/
+ConsoleGetApiData/bin/
